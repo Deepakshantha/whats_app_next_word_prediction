@@ -23,7 +23,6 @@ The project demonstrates the complete NLP pipeline—from text preprocessing to 
 * **Pad Sequences**
 * **Sequential Model**
 * **NumPy**
-* **Matplotlib** (optional for visualization)
 
 
 ## Project Workflow
